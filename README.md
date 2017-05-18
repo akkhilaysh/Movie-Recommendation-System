@@ -6,3 +6,6 @@ Recommender System using Item-based Collaborative Filtering Method using Python.
 Machine learning python libraries are required to run this program.
 
 Repository contains 2 implementations. First file is a .py file and another is an IPython Notebook. The IPython notebook implementation gives step-by-step output of the application.
+
+Reference(s):
+1. Frank Kane, Sundog Education
